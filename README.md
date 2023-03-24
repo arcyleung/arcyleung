@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a Software Engineering Researcher, in the business of high performance distributed/heterogeneous computing, performance portability and compilers as of late. [About me](https://arcyleung.com)
+
+[Email](mailto://arcyleung@gmail.com)
+[Linkedin](https://linkedin.com/in/arcyleung)
+[Twitter](https://twiter.com/arcyleung)
+
 <!--
 **arcyleung/arcyleung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
